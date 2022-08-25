@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AHSADK
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning forecasting in public finance & expenditure policy
